@@ -16,9 +16,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/styles" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -26,6 +28,15 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mikhail Guryanov\Desktop\templates\coding\Archakov Blog\news-blog\src\styles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mikhail Guryanov\Desktop\templates\coding\Archakov Blog\news-blog\src\reducers" />
+      <recent name="C:\Users\Mikhail Guryanov\Desktop\templates\coding\Archakov Blog\news-blog\server\src" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
@@ -53,6 +64,11 @@
       <option name="presentableId" value="Default" />
       <updated>1647550795958</updated>
       <workItem from="1647550797130" duration="4154000" />
+      <workItem from="1647579316775" duration="14436000" />
+      <workItem from="1647622074325" duration="7400000" />
+      <workItem from="1647668530604" duration="6893000" />
+      <workItem from="1647704305272" duration="9739000" />
+      <workItem from="1647753230883" duration="5881000" />
     </task>
     <servers />
   </component>

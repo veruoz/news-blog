@@ -4,16 +4,20 @@ const elems = {
         image: 'figure.full-width img',
         text: '#post-content-body p',
         views: '.tm-icon-counter__value',
+        link: '',
     },
     dagNews: {
         title: 'h1.entry-title',
         image: '.size-full img',
         text: '.td-post-content p',
         views: '.td-post-views span',
+        link: '',
     }
 }
 
 // export object in object
-module.exports = {
-    elems: elems,
-}
+// module.exports = {
+//     elems: elems,
+// }
+
+export {elems}
